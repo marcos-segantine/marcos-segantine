@@ -2,7 +2,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=marcos-segantine&theme=vue-dark&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=1050&hide_border=true)](https://git.io/streak-stats)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=marcos-segantine&bg_color=273849&color=f3f3f4&line=41b883&point=3da87c&area=true&hide_border=true&width=1000)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=marcos-segantine&bg_color=273849&color=f3f3f4&line=41b883&point=3da87c&area=false&hide_border=true&width=1000)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### Main skills:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
